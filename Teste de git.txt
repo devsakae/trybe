@@ -1,1 +1,3 @@
 Arquivo para testar como se usa o git
+
+Esta frase foi adicionada na segunda versão
