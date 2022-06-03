@@ -6,3 +6,5 @@ Python
 C#
 mIRC Scripting
 DOS
+Autoliderança
+Paciência com os colegas
