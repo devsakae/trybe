@@ -6,5 +6,6 @@ Python
 C#
 mIRC Scripting
 DOS
+Git/GitHub
 Autoliderança
 Paciência com os colegas
