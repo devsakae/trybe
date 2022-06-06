@@ -1,3 +1,3 @@
-# Exercícios by @devsakae
+# Exercícios Trybe
 
-Auxiliando pessoas estudantes da Trybe (betrybe.com) a iniciar no JavaScript.
+Aprendendo a mexer com programação, git e github
