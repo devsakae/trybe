@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Javascript
+Python
+C#
+mIRC Scripting
+DOS
