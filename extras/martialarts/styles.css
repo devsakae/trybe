@@ -1,0 +1,79 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 32px;
+    margin-left: -10px;
+}
+hr {
+    max-width: 85%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+#fundo {
+    position: fixed;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.logo {
+    position: fixed;
+    margin-left: 25px;
+}
+
+/* Menu sidebar sugerido pelo W3Schools */
+.sidenav {
+    width: 230px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #111111;
+    display: block;
+    text-align: right;
+}
+.sidenav a:hover {
+    color: #fefefe;
+    background-color: gray;
+  }
+.sidenav a:active {
+    color: white;
+    background-color: black;
+}
+.main {
+    margin-left: 250px;
+    margin-right: 15px;
+}
+
+.artemarcial {
+    text-align: justify;
+}
+
+.fotos {
+    display: inline-block;
+    width: 135px;
+    overflow: hidden;
+}
+
+.fotos:hover {
+    width: 180px;
+    font-weight: bolder;
+}
+.faixa {
+    max-height: 230px;
+    float: inline-start;
+    margin-bottom: -10px;
+    z-index: 4;
+}
+
+.legenda {
+    font-size: 13px;
+    margin-left: 10px;
+}
