@@ -17,7 +17,7 @@ hr {
 }
 
 .logo {
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
     font-size: 24px;
     position: fixed;
     margin-left: 55px;
@@ -58,7 +58,9 @@ hr {
 .artemarcial {
     text-align: justify;
 }
-
+.artemarcial h1, h2 {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
 .fotos {
     display: inline-block;
     width: 135px;
