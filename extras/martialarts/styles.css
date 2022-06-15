@@ -1,7 +1,6 @@
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    line-height: 32p    x;
-    margin-left: -10px;
+    line-height: 26px;
 }
 hr {
     max-width: 85%;
@@ -12,6 +11,7 @@ hr {
 #fundo {
     position: fixed;
     margin-top: -20px;
+    margin-left: -10px;
     z-index: -1;
     opacity: 0.5;
 }
@@ -59,28 +59,10 @@ hr {
     text-align: justify;
 }
 
-/* .fotos {
-    display: inline-block;
-    width: 135px;
-    overflow: hidden;
+.galeria {
+    float: center;
+/*     border: 2px black solid; */
 }
-
-.fotos:hover {
-    width: 180px;
-    font-weight: bolder;
-}
-.faixa {
-    max-height: 230px;
-    float: inline-start;
-    margin-bottom: -10px;
-    z-index: 4;
-}
-
-.legenda {
-    font-size: 13px;
-    margin-left: 10px;
-}
- */
 
 .fotos {
     display: inline-block;
@@ -88,6 +70,7 @@ hr {
     overflow: hidden;
     position: relative;
     margin-left: -5px;
+
 }
 
 .legenda {
@@ -117,6 +100,9 @@ hr {
     background-color: blue;
     color: white;
 }  
+.fotos:hover .legenda.vermelha {
+    background-color: red;
+}  
 .fotos:hover .legenda.bordo {
     background-color: crimson;
 }  
@@ -139,7 +125,10 @@ hr {
     background-color: brown;
     color: white;
 }  
-
+.fotos:hover .legenda.castanha {
+    background-color:darkred;
+    color: white;
+}  
 
 
 
@@ -150,8 +139,6 @@ hr {
     z-index: 4;
     
 }
-
-
 .social {
     width: 230px;
     position: fixed;
@@ -161,4 +148,8 @@ hr {
     padding-bottom: 20px;
     margin-bottom: 50px;
    
+}
+.footer {
+    text-align: center;
+
 }
