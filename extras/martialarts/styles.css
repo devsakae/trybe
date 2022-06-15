@@ -41,15 +41,22 @@ hr {
     color: #111111;
     display: block;
     text-align: right;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 .sidenav a:hover {
     color: #fefefe;
     background-color: gray;
   }
-.sidenav a:active {
+
+
+div.sidenav .selecionado {
     color: white;
     background-color: black;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
+
 .main {
     margin-left: 250px;
     margin-right: 15px;
