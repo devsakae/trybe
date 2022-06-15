@@ -1,6 +1,6 @@
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    line-height: 32px;
+    line-height: 32p    x;
     margin-left: -10px;
 }
 hr {
@@ -63,23 +63,69 @@ hr {
     display: inline-block;
     width: 135px;
     overflow: hidden;
+    border: 2px black solid;
+    position: relative;
+}
+
+.legenda{
+    display: none;
 }
 
 .fotos:hover {
     width: 180px;
     font-weight: bolder;
 }
+
+.fotos:hover .legenda {  
+    display: block;
+    font-size: 15px;
+    text-align: center;   
+}
+
+/* Background de todas as faixas */
+.fotos:hover .legenda.branca {
+    background-color: white;
+}
+.fotos:hover .legenda.amarela {
+    background-color: yellow;
+}  
+.fotos:hover .legenda.azul {
+    background-color: blue;
+}  
+.fotos:hover .legenda.bordo {
+    background-color: crimson;
+}  
+.fotos:hover .legenda.preta {
+    background-color: black;
+    color: white;
+}  
+.fotos:hover .legenda.laranja {
+    background-color: orange;
+}  
+.fotos:hover .legenda.verde {
+    background-color: green;
+    color: white;
+}  
+.fotos:hover .legenda.roxa {
+    background-color: purple;
+    color: white;
+}
+.fotos:hover .legenda.marrom {
+    background-color: brown;
+    color: white;
+}  
+
+
+
+
 .faixa {
     max-height: 230px;
     float: inline-start;
     margin-bottom: -10px;
     z-index: 4;
+    
 }
 
-.legenda {
-    font-size: 13px;
-    margin-left: 10px;
-}
 
 .social {
     width: 230px;
