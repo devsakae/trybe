@@ -24,24 +24,24 @@ Resultado: R$ 2.612,55.
 Dica: que tal identificar as alíquotas com variáveis de nomes explicativos? */
 
 function inss(valor) {
-    let inss;
-    if (valor <= 1556.94) { inss = valor * 0.08; }
-    else if (valor <= 2594.92) { inss = valor * 0.09; }
-    else if (valor <= 5189.82) { inss = valor * 0.11; }
-    else { inss = 570.88; }
-    return valor - inss;
+	let inss;
+	if (valor <= 1556.94) { inss = valor * 0.08; }
+	else if (valor <= 2594.92) { inss = valor * 0.09; }
+	else if (valor <= 5189.82) { inss = valor * 0.11; }
+	else { inss = 570.88; }
+	return valor - inss;
 }
 
 function salario(valor) {
-    let deduzido = inss(valor);
-    let salarioLiquido;
-    let irpf;
-    if (deduzido > 0 && deduzido <= 1903.98) { console.log(deduzido); }
-    else if (deduzido > 1903.98 && deduzido <= 2826.65) { irpf = (deduzido * 0.075) - 142.8; console.log(deduzido - irpf); }
-    else if (deduzido > 2826.65 && deduzido <= 3751.05) { irpf = (deduzido * 0.15) - 354.8; console.log(deduzido - irpf); }
-    else if (deduzido > 3751.05 && deduzido <= 4664.68) { irpf = (deduzido * 0.225) - 636.16; console.log(deduzido - irpf); }
-    else if (deduzido > 4664.68) { irpf = (deduzido * 0.275) - 869.36; console.log(deduzido - irpf); }
-    else { console.log("Não é um número válido"); }
+	let deduzido = inss(valor);
+	let salarioLiquido;
+	let irpf;
+	if (deduzido > 0 && deduzido <= 1903.98) { console.log(deduzido); }
+	else if (deduzido > 1903.98 && deduzido <= 2826.65) { irpf = (deduzido * 0.075) - 142.8; console.log(deduzido - irpf); }
+	else if (deduzido > 2826.65 && deduzido <= 3751.05) { irpf = (deduzido * 0.15) - 354.8; console.log(deduzido - irpf); }
+	else if (deduzido > 3751.05 && deduzido <= 4664.68) { irpf = (deduzido * 0.225) - 636.16; console.log(deduzido - irpf); }
+	else if (deduzido > 4664.68) { irpf = (deduzido * 0.275) - 869.36; console.log(deduzido - irpf); }
+	else { console.log("Não é um número válido"); }
 }
 
 salario(1800);
