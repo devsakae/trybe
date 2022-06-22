@@ -36,7 +36,7 @@ function salario(valor) {
     let deduzido = inss(valor);
     let salarioLiquido;
     let irpf;
-    if (deduzido > 0 && deduzido <= 1903.98) { salarioLiquido = deduzido; console.log(deduzido - irpf); }
+    if (deduzido > 0 && deduzido <= 1903.98) { console.log(deduzido); }
     else if (deduzido > 1903.98 && deduzido <= 2826.65) { irpf = (deduzido * 0.075) - 142.8; console.log(deduzido - irpf); }
     else if (deduzido > 2826.65 && deduzido <= 3751.05) { irpf = (deduzido * 0.15) - 354.8; console.log(deduzido - irpf); }
     else if (deduzido > 3751.05 && deduzido <= 4664.68) { irpf = (deduzido * 0.225) - 636.16; console.log(deduzido - irpf); }
@@ -44,6 +44,7 @@ function salario(valor) {
     else { console.log("Não é um número válido"); }
 }
 
+salario(1800);
 salario(3000);
 salario(4000);
 salario(5000);
