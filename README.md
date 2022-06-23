@@ -9,8 +9,10 @@ estudante da <a href="http://www.betrybe.com" target=_blank>Trybe</a> desde maio
   <summary open>Fundamentos do desenvolvimento web</summary>
 
 ##### Bloco 1: Introdução - Unix & Shell
-- [x] 1-3: Unix & Shell- Parte 1
-- [x] 1-4: Unix & Shell- Parte 2
+- [x] 1-3: Fundamentos do Desenvolvimento Web
+- [x] 1-3: Introdução - Unix & Shell
+- [x] 1-3: Unix & Bash - Parte 1
+- [x] 1-4: Unix & Bash - Parte 2
 
 ##### Bloco 2: Git & GitHub
 - [X] 2-1: O que é e para que serve?
@@ -22,7 +24,7 @@ estudante da <a href="http://www.betrybe.com" target=_blank>Trybe</a> desde maio
 - [X] 3-2: Primeiros passos em CSS
 - [X] 3-3: Seletores e posicionamento
 - [X] 3-4: HTML Semântico
-- [X] 3-5: [Projeto - HTML & CSS](https://devsakae.github.io/trybe/extras/martialarts/index.html) - 100% req. obrigatórios | 100% req. facultativos
+- [X] 3-5: [Projeto - Lessons Learned](https://devsakae.github.io/trybe/extras/martialarts/index.html) - 💯% obrigatórios | 💯% facultativos
 
 ##### Bloco 4: Introdução - JavaScript
 - [X] 4-1: Primeiros passos
