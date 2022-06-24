@@ -1,9 +1,17 @@
 # Olá!
 
-<h3>Eu sou o Rodrigo Sakae,</h3>
-estudante da <a href="http://www.betrybe.com" target=_blank>Trybe</a> desde maio/2022.
+  Eu sou o <strong>Rodrigo Sakae</strong>, estudante da <a href="http://www.betrybe.com" target=_blank>Trybe</a> desde maio/2022. Gostou de algum repositório meu? Dê uma ⭐ no canto superior direito :)
 
-<h3>Cronograma de estudos:</h3>
+## Siga minhas redes sociais
+  <a href="http://devsakae.github.io" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Portfolio Github @devsakae" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Sakae" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Sakae" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rsakae/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@rsakae" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/criciuma" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@criciuma" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/wyn6byedeugtqylxju8pz5es0" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify" height="40" width="40" /></a>
+
+<img align="center" alt="@devsakae's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsakae&show_icons=true&theme=dracula">
+
+## Meu cronograma de estudos na Trybe
 
 <details open>
   <summary open>Fundamentos do desenvolvimento web</summary>
@@ -29,7 +37,7 @@ estudante da <a href="http://www.betrybe.com" target=_blank>Trybe</a> desde maio
 ##### Bloco 4: Introdução - JavaScript
 - [X] 4-1: Primeiros passos
 - [X] 4-2: Array e loop For
-- [ ] 4-3: Lógica de Programação e Algoritmos
+- [X] 4-3: Lógica de Programação e Algoritmos
 - [ ] 4-4: Objetos e funções
 - [ ] 4-5: [Projeto - Playground Functions]
 
@@ -230,16 +238,3 @@ estudante da <a href="http://www.betrybe.com" target=_blank>Trybe</a> desde maio
 # [...]
   
 </details>
-
-**Minhas redes:**
-<p align="left">
-  <a href="https://twitter.com/Sakae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Sakae" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/rsakae/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@rsakae" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/criciuma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@criciuma" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/wyn6byedeugtqylxju8pz5es0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify" height="40" width="40" /></a>
-</p>
-
-
-Gostou de algum repositório meu? Dê uma ⭐ no canto superior direito :)
-
-<img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsakae&show_icons=true&theme=dracula">
