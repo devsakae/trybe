@@ -13,23 +13,47 @@ verificaPalindrome('arara');
 verificaPalindrome('desenvolvimento');
 //Retorno esperado: false
 
+
 //2 - Crie uma função que receba um array de inteiros e retorne o índice do maior valor.
-let array = [2, 3, 6, 7, 10, 1];
+let array2 = [2, 3, 6, 7, 10, 1];
 //Valor esperado no retorno da função: 4.
-searchingFor = Math.max.apply(null, array);
+function maiorValor(ver) {
+  let maiorNumero = Math.max(...ver);
+  return ver.indexOf(maiorNumero);
+}
+console.log(maiorValor(array2));
 
 
 // 3 - Crie uma função que receba um array de inteiros e retorne o índice do menor valor.
-let array = [2, 4, 6, 7, 10, 0, -3];
+let array3 = [2, 4, 6, 7, 10, 0, -3];
 // Valor esperado no retorno da função: 6.
+function menorValor(ver) {
+  let menorNumero = Math.min(...ver);
+  return ver.indexOf(menorNumero);
+}
+console.log(menorValor(array3));
+
 
 // 4 - Crie uma função que receba um array de nomes e retorne o nome com a maior quantidade de caracteres.
-let array = ['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana'];
+let array4 = ['José', 'Lucas', 'Nádia', 'Fernanda', 'Cairo', 'Joana'];
 // Valor esperado no retorno da função: Fernanda.
+function maisLongo(ver) {
+  let maisLongo = ver[0];
+  for (let i = 0; i < ver.length; i += 1) {
+    if (ver[i].length >= maisLongo.length) { maisLongo = ver[i]; }
+    else { }
+  }
+  return maisLongo;
+}
+console.log(maisLongo(array4));
+
 
 // 🚀 5 - Crie uma função que receba um array de inteiros e retorne o inteiro que mais se repete.
-array = [2, 3, 2, 5, 8, 2, 3];
+array5 = [2, 3, 2, 5, 8, 2, 3];
 // Valor esperado no retorno da função: 2.
+function inteiroQueMaisRepete(ver) {
+  
+}
 
 // 6 - Crie uma função que receba um número natural (número inteiro não negativo) N e retorne o somatório de todos os números de 1 até N.
 let n = 5;
