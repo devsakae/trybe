@@ -38,7 +38,7 @@
 - [X] 4-1: Primeiros passos
 - [X] 4-2: Array e loop For
 - [X] 4-3: Lógica de Programação e Algoritmos
-- [ ] 4-4: Objetos e funções
+- [X] 4-4: Objetos e funções
 - [ ] 4-5: [Projeto - Playground Functions]
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
