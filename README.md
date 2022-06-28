@@ -39,7 +39,7 @@
 - [X] 4-2: Array e loop For
 - [X] 4-3: Lógica de Programação e Algoritmos
 - [X] 4-4: Objetos e funções
-- [ ] 4-5: [Projeto - Playground Functions]
+- [X] 4-5: [Projeto - Playground Functions](https://github.com/tryber/sd-024-a-project-playground-functions/pull/10) - 💯% obrigatórios | 💯% facultativos
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 - [ ] 5-1: DOM e seletores
