@@ -42,15 +42,15 @@
 - [X] 4-5: [Projeto - Playground Functions](https://github.com/tryber/sd-024-a-project-playground-functions/pull/10) - 💯% obrigatórios | 💯% facultativos
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
-- [ ] 5-1: DOM e seletores
+- [X] 5-1: DOM e seletores
 - [ ] 5-2: Trabalhando com elementos
 - [ ] 5-3: Eventos
 - [ ] 5-4: Web Storage
-- [ ] 5-5: [Projeto - Meme Generator]
-- [ ] 5-6: [Projeto - Arte com Pixels]
-- [ ] 5-7: [Projeto - Lista de tarefas]
-- [ ] 5-7: [Projeto - Adivinhe a Cor]
-- [ ] 5-7: [Projeto - Carta Misteriosa]
+- [ ] 5-5: [Projeto - Arte com Pixels]
+- [ ] 5-6: [Bônus - Lista de tarefas]
+- [ ] 5-7: [Bônus - Meme Generator]
+- [ ] 5-7: [Bônus - Adivinhe a Cor]
+- [ ] 5-7: [Bônus - Carta Misteriosa]
 
 ##### Bloco 6: HTML & CSS avançado
 - [ ] 6-1: HTML & CSS - Forms
