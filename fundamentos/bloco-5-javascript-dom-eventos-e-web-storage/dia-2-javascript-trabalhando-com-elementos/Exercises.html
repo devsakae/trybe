@@ -96,16 +96,20 @@ exercicio5.appendChild(exercicio7);
 exercicio7.src = 'https://picsum.photos/200';
 
 // 🚀 Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um, dois, três, ... como valores da lista. Essa lista deve ser filha do section criado no passo 6;
-let exercicio8 = document.createElement('ul');
-exercicio6.appendChild(exercicio8);
-exercicio8.innerHTML = '<li>Um</li><li>Dois</li><li>Três</li><li>Quatro</li><li>Cinco</li><li>Seis</li><li>Sete</li><li>Oito</li><li>Nove</li><li>Dez</li>';
+let numerosPorExtenso = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez'];
+let exercicio8Ul = document.createElement('ul');
+exercicio6.appendChild(exercicio8Ul);
+for (let i = 0; i < numerosPorExtenso.length; i += 1) {
+  let exercicio8Li = document.createElement('li');
+  exercicio8Li.innerText = numerosPorExtenso[i];
+  exercicio8Ul.appendChild(exercicio8Li);
+}
 
 // 🚀 Adicione 3 tags h3, todas sendo filhas do main criado no passo 2.
-let exercicio9 = document.createElement('h3');
-for (let i = 0; i <= 3; i += 1) {
+for (let i = 0; i < 3; i += 1) {
+  let exercicio9 = document.createElement('h3');
   exercicio2.appendChild(exercicio9);
 }
-//Essa aqui não deu certo...
 
   </script>
 </body>
