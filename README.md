@@ -44,8 +44,8 @@
 ##### Bloco 5: Introdução - JavaScript - Projetos
 - [X] 5-1: DOM e seletores
 - [X] 5-2: Trabalhando com elementos
-- [ ] 5-3: Eventos
-- [ ] 5-4: Web Storage
+- [X] 5-3: Eventos
+- [X] 5-4: Web Storage
 - [ ] 5-5: [Projeto - Arte com Pixels]
 - [ ] 5-6: [Bônus - Lista de tarefas]
 - [ ] 5-7: [Bônus - Meme Generator]
