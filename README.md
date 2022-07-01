@@ -11,7 +11,7 @@
 
 <img align="center" alt="@devsakae's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsakae&show_icons=true&theme=dracula">
 
-## Projetos que criei no curso</summary>
+## Projetos que criei no curso
 - [Faixas do Karatê](http://devsakae.me/trybe/extras/martialarts/index.html) - Criado em 22/mai/2022 
 - [Quem paga o pato?](http://devsakae.me/pagando-o-pato) - Criado em 01/jul/2022 
 
