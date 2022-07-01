@@ -11,6 +11,10 @@
 
 <img align="center" alt="@devsakae's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsakae&show_icons=true&theme=dracula">
 
+## Projetos que criei no curso
+- [Faixas do Karatê](http://devsakae.me/trybe/extras/martialarts/index.html) - Criado em 22/mai/2022 
+- [Quem paga o pato?](http://devsakae.me/pagando-o-pato) - Criado em 01/jul/2022 
+
 ## Meu cronograma de estudos na Trybe
 
 <details open>
@@ -44,8 +48,8 @@
 ##### Bloco 5: Introdução - JavaScript - Projetos
 - [X] 5-1: DOM e seletores
 - [X] 5-2: Trabalhando com elementos
-- [ ] 5-3: Eventos
-- [ ] 5-4: Web Storage
+- [X] 5-3: Eventos
+- [X] 5-4: Web Storage
 - [ ] 5-5: [Projeto - Arte com Pixels]
 - [ ] 5-6: [Bônus - Lista de tarefas]
 - [ ] 5-7: [Bônus - Meme Generator]
