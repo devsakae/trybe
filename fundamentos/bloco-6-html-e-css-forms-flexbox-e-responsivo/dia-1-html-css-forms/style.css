@@ -6,6 +6,10 @@
   font-size: small;
 }
 
+fieldset {
+  border: 0 none;
+}
+
 .quadrado {
   text-align: center;
   background-color: rgb(246,247,248);
@@ -35,7 +39,7 @@
   margin-bottom: 30px;
 }
 
-.form-content input[type='text'] {
+.form-content input[type='text'], textarea {
   background-color: rgb(255,255,255);
   border: 1px solid rgb(214,217,220);
   border-radius: 3px;
@@ -55,4 +59,19 @@
 
 .line-content input[type='radio'] {
   margin: 8px 2px;
+}
+
+.envio {
+  font-size: 16px;
+  background-color: #5995da;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 40px;
+  cursor: pointer;
+}
+
+.envio:hover {
+  background-color: blue;
 }

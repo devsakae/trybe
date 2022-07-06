@@ -16,7 +16,7 @@
     <p>Concorra a uma viagem com tudo pago para o <em>Hawaii</em>!</p>
   </header>
   <main>
-    <form action="" method="get" id="formulario" class="formulario">
+    <form method="get" id="formulario" class="formulario">
       <section class="form-content">
         <div class="line-content">
           <label for="nome">Nome:</label>
@@ -24,12 +24,37 @@
         </div>
         <div class="line-content">
           <fieldset>
-            <legend>Para qual ilha você deseja ir?</legend>
-            <input type="radio" name="opt1" id="opt1">
-            <label for="opt1">Oahu</label>
-            <input type="radio" name="opt2" id="opt2">
-            <label for="opt2">North Shore</label>
+            <legend>Qual a melhor escola de programação do país?</legend>
+            <input type="radio" name="trybe" id="opt1" value="TRYBE">
+            <label for="opt1">TRYBE</label>
+            <input type="radio" name="trybe" id="opt2" value="outra">
+            <label for="opt2">Outra</label>
+            <input type="radio" name="trybe" id="opt3" value="nenhuma">
+            <label for="opt3">Nenhuma</label>
+            <input type="radio" name="trybe" id="opt4" value="relativo">
+            <label for="opt4">Isso é relativo</label>
           </fieldset>
+        </div>
+        <div class="line-content">
+          <label for="ilha">Qual ilha você deseja ir?</label>
+          <select name="ilha" id="ilha">
+            <option value="oahu">Oahu</option>
+            <option value="lanai">Lanai</option>
+            <option value="maui">Maui</option>
+            <option value="northshore">North shore</option>
+            <option value="kauai">Kauai</option>
+          </select>
+        </div>
+        <div class="line-content">
+          <label for="resposta">Por que você deseja ir pro Hawaii?</label>
+          <textarea name="resposta" cols="30" rows="10" placeholder="Digite aqui a sua resposta"></textarea>
+        </div>
+        <div class="line-content">
+          <input type="checkbox" name="lgpd" id="lgpd" value="aceite" required>
+          <label for="lgpd">Ao clicar em enviar, autorizo a organizadora da #TrybeTrip a compartilhar meus dados com terceiros, para fins de marketing.</label>
+        </div>
+        <div class="line-content">
+          <button type="submit" class="envio">Enviar</button>
         </div>
       </section>
     </form>
