@@ -39,7 +39,7 @@ fieldset {
   margin-bottom: 30px;
 }
 
-.form-content input[type='text'], textarea {
+.form-content input[type=text], input[type=email], textarea {
   background-color: rgb(255,255,255);
   border: 1px solid rgb(214,217,220);
   border-radius: 3px;
