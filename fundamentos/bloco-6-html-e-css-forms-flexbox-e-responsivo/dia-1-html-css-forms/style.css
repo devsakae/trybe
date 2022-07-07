@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: small;
+}
+
+fieldset {
+  border: 0 none;
+}
+
+
+.quadrado {
+  text-align: center;
+  background-color: rgb(246,247,248);
+  border: 1px solid rgb(214,217,220);
+  border-radius: 3px;
+  width: 80%;
+  margin: 30px auto;
+  padding: 35px;
+}
+
+.quadrado h1 {
+  font-size: 42px;
+  letter-spacing: 0.22em;
+  padding: 10px;
+}
+
+.formulario {
+  background-color: rgb(246,247,248);
+  border: 1px solid rgb(214,217,220);
+  border-radius: 3px;
+  width: 80%;
+  margin: 30px auto;
+  padding: 40px;
+}
+
+.form-content {
+  margin-bottom: 30px;
+}
+
+.form-content input[type=text], input[type=email], textarea {
+  background-color: rgb(255,255,255);
+  border: 1px solid rgb(214,217,220);
+  border-radius: 3px;
+  width: 100%;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.form-content label {
+  margin-bottom: 15px;
+}
+
+.line-content {
+  margin: 20px;
+  border: 0 none;
+}
+
+.line-content input[type='radio'] {
+  margin: 8px 2px;
+}
+
+.envio {
+  font-size: 16px;
+  background-color: #5995da;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 40px;
+  cursor: pointer;
+}
+
+.envio:hover {
+  background-color: blue;
+}
