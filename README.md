@@ -20,12 +20,12 @@
 <details open>
   <summary open>Fundamentos do desenvolvimento web</summary>
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: Introdução - Unix & Shell</summary>
 - [x] 1-3: Fundamentos do Desenvolvimento Web
 - [x] 1-3: Introdução - Unix & Shell
 - [x] 1-3: Unix & Bash - Parte 1
 - [x] 1-4: Unix & Bash - Parte 2
-
+  
 ##### Bloco 2: Git & GitHub
 - [X] 2-1: O que é e para que serve?
 - [X] 2-2: Entendendo os comandos
@@ -52,25 +52,25 @@
 - [X] 5-4: Web Storage
 - [X] 5-5: [Projeto - Arte com Pixels] 💯% obrigatórios | 💯% facultativos
 - [X] 5-6: [Bônus - Lista de tarefas] 💯% obrigatórios
-- [ ] 5-7: [Bônus - Meme Generator]
+- [X] 5-7: [Bônus - Meme Generator] 💯% obrigatórios | 💯% facultativos
 - [ ] 5-7: [Bônus - Adivinhe a Cor]
 - [ ] 5-7: [Bônus - Carta Misteriosa]
 
 ##### Bloco 6: HTML & CSS avançado
 - [X] 6-1: HTML & CSS - Forms
 - [X] 6-2: Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6-3: CSS Flexbox - Parte 1
-- [ ] 6-4: CSS Flexbox - Parte 2
+- [X] 6-3: CSS Flexbox - Parte 1
+- [X] 6-4: CSS Flexbox - Parte 2
 - [ ] 6-5: CSS Responsivo - Mobile First
-- [ ] 6-6: [Projeto - Página inicial do Facebook]
+- [ ] 6-6: [Projeto - Trybewarts]
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
-- [ ] 7-1: Let, const, arrow functions e template literals
-- [ ] 7-2: Objects
-- [ ] 7-3: Testes unitários em JavaScript
+- [ ] 7-1: Javascript ES6 - let, const, arrow functions e template literals
+- [ ] 7-2: Javascript ES6 - Fluxo de exceção e objetos
+- [ ] 7-3: Primeiros passos em Jest
 - [ ] 7-4: [Projeto - JavaScript Testes Unitários]
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: Higher Order
 - [ ] 8-1: JavaScript ES6 - Introdução a Higher Order Functions
 - [ ] 8-2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8-3: JavaScript ES6 - Higher Order Functions - map e filter
