@@ -50,11 +50,10 @@
 - [X] 5-2: Trabalhando com elementos
 - [X] 5-3: Eventos
 - [X] 5-4: Web Storage
-- [X] 5-5: [Projeto - Arte com Pixels] 💯% obrigatórios | 💯% facultativos
-- [X] 5-6: [Bônus - Lista de tarefas] 💯% obrigatórios
-- [X] 5-7: [Bônus - Meme Generator] 💯% obrigatórios | 💯% facultativos
+- [X] 5-5: [Projeto - Arte com Pixels](https://github.com/tryber/sd-024-a-project-pixels-art/pull/12) 💯% obrigatórios | 💯% facultativos
+- [X] 5-6: [Bônus - Lista de tarefas](https://github.com/tryber/sd-024-a-project-todo-list/pull/6) 💯% obrigatórios
+- [X] 5-7: [Bônus - Meme Generator](https://github.com/tryber/sd-024-a-project-meme-generator/pull/17) 💯% obrigatórios | 💯% facultativos
 - [ ] 5-7: [Bônus - Adivinhe a Cor]
-- [ ] 5-7: [Bônus - Carta Misteriosa]
 
 ##### Bloco 6: HTML & CSS avançado
 - [X] 6-1: HTML & CSS - Forms
