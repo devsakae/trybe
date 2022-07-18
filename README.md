@@ -60,13 +60,13 @@
 - [X] 6-2: Bibliotecas JavaScript e Frameworks CSS
 - [X] 6-3: CSS Flexbox - Parte 1
 - [X] 6-4: CSS Flexbox - Parte 2
-- [ ] 6-5: CSS Responsivo - Mobile First
-- [ ] 6-6: [Projeto - Trybewarts]
+- [X] 6-5: CSS Responsivo - Mobile First
+- [X] 6-6: [Projeto - Trybewarts](https://github.com/tryber/sd-024-a-project-trybewarts/pull/46) 💯% obrigatórios | 💯% facultativos
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
-- [ ] 7-1: Javascript ES6 - let, const, arrow functions e template literals
-- [ ] 7-2: Javascript ES6 - Fluxo de exceção e objetos
-- [ ] 7-3: Primeiros passos em Jest
+- [X] 7-1: Javascript ES6 - let, const, arrow functions e template literals
+- [X] 7-2: Javascript ES6 - Fluxo de exceção e objetos
+- [X] 7-3: Primeiros passos em Jest
 - [ ] 7-4: [Projeto - JavaScript Testes Unitários]
 
 ##### Bloco 8: Higher Order
