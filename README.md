@@ -18,7 +18,7 @@
 
 ## Meu cronograma de estudos na Trybe
 
-<details open>
+<details>
   <summary>Fundamentos do desenvolvimento web</summary>
 
 ##### Bloco 1: Introdução - Unix & Shell</summary>
@@ -80,8 +80,8 @@
   
 </details>
 
-<details>
-  <summary open>Desenvolvimento Front-end :hourglass_flowing_sand: </summary>
+<details open>
+  <summary open>Desenvolvimento Front-end</summary>
 
 ##### Bloco 9: JavaScript e testes assíncronos
 - [X] 9-1: Introdução - Front-end
