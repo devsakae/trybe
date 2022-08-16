@@ -18,8 +18,8 @@
 
 ## Meu cronograma de estudos na Trybe
 
-<details open>
-  <summary open>Fundamentos do desenvolvimento web</summary>
+<details>
+  <summary>Fundamentos do desenvolvimento web</summary>
 
 ##### Bloco 1: Introdução - Unix & Shell</summary>
 - [x] 1-3: Fundamentos do Desenvolvimento Web
@@ -80,15 +80,15 @@
   
 </details>
 
-<details>
-  <summary>Desenvolvimento Front-end :hourglass_flowing_sand: </summary>
+<details open>
+  <summary open>Desenvolvimento Front-end</summary>
 
 ##### Bloco 9: JavaScript e testes assíncronos
-- [ ] 9-1: Introdução - Front-end
-- [ ] 9-1: JavaScript Assíncrono e Callbacks
-- [ ] 9-2: JavaScript Assíncrono - Fetch API e async/await
-- [ ] 9-3: Jest - Testes Assíncronos
-- [ ] 9-4: [Projeto - Carrinho de Compras]
+- [X] 9-1: Introdução - Front-end
+- [X] 9-1: JavaScript Assíncrono e Callbacks
+- [X] 9-2: JavaScript Assíncrono - Fetch API e async/await
+- [X] 9-3: Jest - Testes Assíncronos
+- [X] 9-4: [Projeto - Carrinho de Compras](https://github.com/tryber/sd-024-a-project-shopping-cart/pull/37) 💯% obrigatórios
 
 ##### Bloco 10: Jest
 - [ ] 10-1: Primeiros passos no Jest
