@@ -103,15 +103,15 @@
 ##### Bloco 11: Componentes com estado, eventos e formulários com React
 - [X] 11-1: Componentes com estado e eventos
 - [X] 11-2: Eventos e formulários no React
-- [ ] 11-3: [Projeto - Tryunfo]
+- [X] 11-3: [Projeto - Tryunfo](https://github.com/tryber/sd-024-a-project-tryunfo/pull/31) 💯% obrigatórios
 
 ##### Bloco 12: Ciclo de vida de componentes em React
-- [ ] 12-1: Ciclo de vida de componentes em React
-- [ ] 12-2: React Router
-- [ ] 12-3: [Projeto - TrybeTunes]
+- [X] 12-1: Ciclo de vida de componentes em React
+- [X] 12-2: React Router
+- [X] 12-3: [Projeto - TrybeTunes](https://github.com/tryber/sd-t24-a-project-trybetunes/pull/48) 💯% obrigatórios
 
 ##### Bloco 13: Metodologias ágeis
-- [ ] 13-1: Metodologias Ágeis
+- [X] 13-1: Metodologias Ágeis
 - [ ] 13-2: [Projeto - Frontend Online Store]
 
 ##### Bloco 14: Testes automatizados com React Testing Library
