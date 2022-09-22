@@ -112,16 +112,16 @@
 
 ##### Bloco 13: Metodologias ágeis
 - [X] 13-1: Metodologias Ágeis
-- [ ] 13-2: [Projeto - Frontend Online Store]
+- [X] 13-2: [Projeto - Frontend Online Store] 💯% obrigatórios
 
 ##### Bloco 14: Testes automatizados com React Testing Library
-- [ ] 14-1: RTL - Primeiros passos
-- [ ] 14-2: RTL - Mocks e inputs
-- [ ] 14-3: RTL - Testando React Router
-- [ ] 14-4: [Projeto - Testes em React]
+- [X] 14-1: RTL - Primeiros passos
+- [X] 14-2: RTL - Mocks e inputs
+- [X] 14-3: RTL - Testando React Router
+- [X] 14-4: [Projeto - Testes em React](https://github.com/tryber/sd-024-a-project-react-testing-library/pull/45) 💯% obrigatórios
 
 ##### Bloco 15: Gerenciamento de estado com Redux
-- [ ] 15-1: Introdução ao Redux - O estado global da aplicação
+- [x] 15-1: Introdução ao Redux - O estado global da aplicação
 - [ ] 15-2: Usando o Redux no React
 - [ ] 15-3: Usando o Redux no React - Prática
 - [ ] 15-4: Usando o Redux no React - Actions Assíncronas
