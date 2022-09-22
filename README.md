@@ -89,60 +89,66 @@
 - [X] 9-2: JavaScript Assíncrono - Fetch API e async/await
 - [X] 9-3: Jest - Testes Assíncronos
 - [X] 9-4: [Projeto - Carrinho de Compras](https://github.com/tryber/sd-024-a-project-shopping-cart/pull/37) 💯% obrigatórios
+- [X] 10-1: Primeiros passos no Jest
+- [X] 10-2: Jest - Testes Assíncronos
+- [X] 10-3: Jest - Simulando comportamentos
+- [X] 10-4: [Projeto - Shopping Cart](https://github.com/tryber/sd-024-a-project-shopping-cart/pull/37) 💯% obrigatórios
 
-##### Bloco 10: Jest
-- [ ] 10-1: Primeiros passos no Jest
-- [ ] 10-2: Jest - Testes Assíncronos
-- [ ] 10-3: Jest - Simulando comportamentos
-- [ ] 10-4: [Projeto - Jest Assíncrono e Mocking]
 
-##### Bloco 11: Introdução - React
-- [ ] 11-1: 'Hello, world!' no React!
-- [ ] 11-2: Componentes React
-- [ ] 11-3: [Projeto - Movie Cards Library]
+##### Bloco 10: Introdução à React
+- [X] 10-1: 'Hello, world!' no React!
+- [X] 10-2: Componentes React
+- [X] 10-3: [Projeto - Sistema Solar](https://github.com/tryber/sd-024-a-project-solar-system/pull/26) 💯% obrigatórios
 
-##### Bloco 12: React
-- [ ] 12-1: Components com estado
-- [ ] 12-2: Eventos e formulários no React
-- [ ] 12-3: [Projeto - Movie Cards Library Stateful]
+##### Bloco 11: Componentes com estado, eventos e formulários com React
+- [X] 11-1: Componentes com estado e eventos
+- [X] 11-2: Eventos e formulários no React
+- [X] 11-3: [Projeto - Tryunfo](https://github.com/tryber/sd-024-a-project-tryunfo/pull/31) 💯% obrigatórios
 
-##### Bloco 13: React
-- [ ] 13-1: Melhorando o reuso de componentes: props.children e PropTypes
-- [ ] 13-2: Ciclo de vida de componentes em React
-- [ ] 13-3: React Router
-- [ ] 13-4: [Projeto - Movie Cards Library CRUD]
+##### Bloco 12: Ciclo de vida de componentes em React
+- [X] 12-1: Ciclo de vida de componentes em React
+- [X] 12-2: React Router
+- [X] 12-3: [Projeto - TrybeTunes](https://github.com/tryber/sd-t24-a-project-trybetunes/pull/48) 💯% obrigatórios
 
-##### Bloco 14: Metodologias ágeis
-- [ ] 14-1: Metodologias Ágeis
-- [ ] 14-2: [Projeto - Frontend Online Store]
+##### Bloco 13: Metodologias ágeis
+- [X] 13-1: Metodologias Ágeis
+- [X] 13-2: [Projeto - Frontend Online Store] 💯% obrigatórios
 
-##### Bloco 15: Testes em React
-- [ ] 15-1: Testando React com a React Testing Library - Parte 1
-- [ ] 15-2: Testando React com a React Testing Library - Parte 2
-- [ ] 15-3: [Projeto - Testes em React]
+##### Bloco 14: Testes automatizados com React Testing Library
+- [X] 14-1: RTL - Primeiros passos
+- [X] 14-2: RTL - Mocks e inputs
+- [X] 14-3: RTL - Testando React Router
+- [X] 14-4: [Projeto - Testes em React](https://github.com/tryber/sd-024-a-project-react-testing-library/pull/45) 💯% obrigatórios
 
-##### Bloco 16: Introdução ao Redux
-- [ ] 16-1: Introdução ao Redux
-- [ ] 16-2: React com Redux - Parte 1
-- [ ] 16-3: React com Redux - Prática
-- [ ] 16-4: React com Redux - Parte 2
-- [ ] 16-5: Testes síncronos com React-Redux
-- [ ] 16-6: [Projeto - Tabela com filtros de dados]
+##### Bloco 15: Gerenciamento de estado com Redux
+- [x] 15-1: Introdução ao Redux - O estado global da aplicação
+- [ ] 15-2: Usando o Redux no React
+- [ ] 15-3: Usando o Redux no React - Prática
+- [ ] 15-4: Usando o Redux no React - Actions Assíncronas
+- [ ] 15-5: Testes em React-Redux
+- [ ] 15-6: [Projeto - Trybe Wallet]
 
-##### Bloco 17: Projeto React
-- [ ] 17-1: [Projeto - Jogo de Trivia]
+##### Bloco 16: Projeto Jogo de Trivia
+- [ ] 16-6: [Projeto - Jogo de Trivia]
 
-##### Bloco 18: React & Contex API
-- [ ] 18-1: Context API do React
-- [ ] 18-2: React Hooks - useState e useContext
-- [ ] 18-3: React Hooks - useEffect e Hooks customizados
-- [ ] 18-4: [Projeto - StarWars Datatable com Context API e Hooks]
+##### Bloco 17: Context API & React Hooks
+- [ ] 17-1: Context API do React
+- [ ] 17-2: React Hooks - useState e useContext
+- [ ] 17-3: React Hooks - useEffect e Hooks customizados
+- [ ] 17-4: [Projeto - StarWars Datatable com Context API e Hooks]
 
-##### Bloco 19: Projeto Final de Front-end
-- [ ] 19-1: [Projeto - App de Receitas]
+##### Bloco 18: Projeto Final de Front-end
+- [ ] 18-1: [Projeto - App de Receitas]
 </details>
 <details>
   <summary>Desenvolvimento Back-end :hourglass_flowing_sand: </summary>
+
+##### Bloco 19: Docker: Utilizando Containers
+- [ ] 19-1: Introdução - Back-end
+- [ ] 19-2: Utilizando Containers - Docker
+- [ ] 19-3: Manipulando Imagens no Docker
+- [ ] 19-4: Orquestrando Containers com Docker Compose
+- [ ] 19-5: [Projeto - Docker Todo-List]
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 - [ ] 20-1: Banco de dados SQL
