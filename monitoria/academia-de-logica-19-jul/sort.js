@@ -1,1 +1,0 @@
-const numeros = [1, ]
