@@ -80,8 +80,8 @@
   
 </details>
 
-<details open>
-  <summary open>Desenvolvimento Front-end</summary>
+<details>
+  <summary>Desenvolvimento Front-end</summary>
 
 ##### Bloco 9: JavaScript e testes assíncronos
 - [X] 9-1: Introdução - Front-end
@@ -93,7 +93,6 @@
 - [X] 10-2: Jest - Testes Assíncronos
 - [X] 10-3: Jest - Simulando comportamentos
 - [X] 10-4: [Projeto - Shopping Cart](https://github.com/tryber/sd-024-a-project-shopping-cart/pull/37) 💯% obrigatórios
-
 
 ##### Bloco 10: Introdução à React
 - [X] 10-1: 'Hello, world!' no React!
@@ -122,23 +121,23 @@
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 - [x] 15-1: Introdução ao Redux - O estado global da aplicação
-- [ ] 15-2: Usando o Redux no React
-- [ ] 15-3: Usando o Redux no React - Prática
-- [ ] 15-4: Usando o Redux no React - Actions Assíncronas
-- [ ] 15-5: Testes em React-Redux
-- [ ] 15-6: [Projeto - Trybe Wallet]
+- [x] 15-2: Usando o Redux no React
+- [x] 15-3: Usando o Redux no React - Prática
+- [x] 15-4: Usando o Redux no React - Actions Assíncronas
+- [x] 15-5: Testes em React-Redux
+- [x] 15-6: [Projeto - Trybe Wallet]
 
 ##### Bloco 16: Projeto Jogo de Trivia
-- [ ] 16-6: [Projeto - Jogo de Trivia]
+- [x] 16-6: [Projeto - Jogo de Trivia]
 
 ##### Bloco 17: Context API & React Hooks
-- [ ] 17-1: Context API do React
-- [ ] 17-2: React Hooks - useState e useContext
-- [ ] 17-3: React Hooks - useEffect e Hooks customizados
-- [ ] 17-4: [Projeto - StarWars Datatable com Context API e Hooks]
+- [x] 17-1: Context API do React
+- [x] 17-2: React Hooks - useState e useContext
+- [x] 17-3: React Hooks - useEffect e Hooks customizados
+- [x] 17-4: [Projeto - StarWars Datatable com Context API e Hooks]
 
 ##### Bloco 18: Projeto Final de Front-end
-- [ ] 18-1: [Projeto - App de Receitas]
+- [x] 18-1: [Projeto - App de Receitas]
 </details>
 <details>
   <summary>Desenvolvimento Back-end :hourglass_flowing_sand: </summary>
