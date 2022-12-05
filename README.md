@@ -139,94 +139,35 @@
 ##### Bloco 18: Projeto Final de Front-end
 - [x] 18-1: [Projeto - App de Receitas]
 </details>
-<details>
-  <summary>Desenvolvimento Back-end :hourglass_flowing_sand: </summary>
+<details open>
+  <summary>Desenvolvimento Back-end </summary>
 
-##### Bloco 19: Docker: Utilizando Containers
-- [ ] 19-1: Introdução - Back-end
-- [ ] 19-2: Utilizando Containers - Docker
-- [ ] 19-3: Manipulando Imagens no Docker
-- [ ] 19-4: Orquestrando Containers com Docker Compose
-- [ ] 19-5: [Projeto - Docker Todo-List]
+##### 1. Docker: Utilizando containers
+- [x] Utilizando containers: Docker
+- [x] Manipulando Imagens no Docker
+- [x] Orquestrando Containers com Docker Compose
+- [x] Projeto: Docker Todo-list
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
-- [ ] 20-1: Banco de dados SQL
-- [ ] 20-2: Encontrando dados em um banco de dados
-- [ ] 20-3: Filtrando dados de forma específica
-- [ ] 20-4: Manipulando tabelas
-- [ ] 20-5: [Projeto - All For One]
+##### 2. Introdução à SQL
+- [x] Banco de dados SQL
+- [x] Encontrando dados no banco de dados
+- [x] Filtrando dados de forma específica
+- [x] Manipulando tabelas
+- [x] Projeto: All for one
 
-##### Bloco 21: Bancos de dados relacionais
-- [ ] 21-1: Funções mais usadas no SQL
-- [ ] 21-2: Descomplicando JOINs e UNIONs
-- [ ] 21-3: Stored Routines & Subqueries
-- [ ] 21-4: [Projeto - Vocabulary Booster]
+##### 3. Funções SQL, Join e Normalização
+- [x] Funções mais usadas no SQL
+- [x] Descomplicando JOINs
+- [x] Transformando ideias em um modelo de banco de dados
+- [x] Projeto: One for all
 
-##### Bloco 22: Bancos de dados relacionais
-- [ ] 22-1: Transformando ideias em um modelo de banco de dados - Parte 1
-- [ ] 22-2: Normalização, Formas Normais e Dumps
-- [ ] 22-2: Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] 22-3: [Projeto - One For All]
-
-##### Bloco 23: Introdução - NoSQL
-- [ ] 23-1: MongoDB - Introdução
-- [ ] 23-2: Filter Operators
-- [ ] 23-3: [Projeto - Data Flights]
-
-##### Bloco 24: Updates
-- [ ] 24-1: Updates Simples
-- [ ] 24-2: Updates Complexos - Arrays - Parte 1
-- [ ] 24-3: Updates Complexos - Arrays - Parte 2
-- [ ] 24-4: [Projeto - Commerce]
-
-##### Bloco 25: Aggregation Framework
-- [ ] 25-1: Aggregation Framework - Parte 1
-- [ ] 25-2: Aggregation Framework - Parte 2
-- [ ] 25-3: [Projeto - Aggregations]
-
-##### Bloco 26: Intro - NodeJS
-- [ ] 26-1: Introdução
-- [ ] 26-2: Fluxo Assíncrono
-- [ ] 26-3: Arquitetura
-- [ ] 26-4: [Projeto - A CLI of Ice and Fire]
-
-##### Bloco 27: NodeJS
-- [ ] 27-1: Express: HTTP com Node.js
-- [ ] 27-2: Arquitetura de Software - Introdução ao MVC
-- [ ] 27-3: [Projeto - Cookmaster]
-
-##### Bloco 28: NodeJS
-- [ ] 28-1: Arquitetura de Software - Camada de Serviço
-- [ ] 28-2: Arquitetura web - Rest e Restful
-- [ ] 28-3: [Projeto - Store Manager]
-
-##### Bloco 29: NodeJS
-- [ ] 29-1: JWT - (JSON Web Token)
-- [ ] 29-2: Upload de arquivos com Multer
-- [ ] 29-3: [Projeto - Cookmaster V2]
-
-##### Bloco 30: Introdução - Deploy
-- [ ] 30-1: Infraestrutura - Deploy com Heroku
-- [ ] 30-2: Deploy - Gerenciadores de processos
-- [ ] 30-3: [Projeto - Stranger Things]
-
-##### Bloco 31: Projeto
-- [ ] 31-1: [Projeto - Trybeer]
-
-##### Bloco 32: Arquitetura de Software
-- [ ] 32-1: Arquitetura - Princípios SOLID
-- [ ] 32-2: ORM - Interface da aplicação com o banco de dados
-- [ ] 32-3: Arquitetura de Software - DDD
-- [ ] 32-4: Boas práticas na escrita de testes
-- [ ] 32-3: [Projeto - API de Blogs]
-
-##### Bloco 33: Sockets
-- [ ] 30-1: TCP/UDP & NET
-- [ ] 30-2: Socket.io
-- [ ] 30-3: [Projeto - Webchat]
-
-##### Bloco 34: Projeto
-- [ ] 34-1: [Projeto - Trybeer V2]
+##### 4. Introdução ao desenvolvimento web com Node.js
+- [ ] Node.js: Runtime assíncrono
+- [ ] Node.js: API Rest com Express
+- [ ] Node.js: Testes de integração
+- [ ] Node.js: Express e Middlewares
+- [ ] Node.js: Express e MySQL
+- [ ] Projeto: Talker manager
 </details>
 <details>
   <summary>Ciência da Computação :hourglass_flowing_sand: </summary>
