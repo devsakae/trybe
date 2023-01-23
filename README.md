@@ -162,12 +162,62 @@
 - [x] Projeto: One for all
 
 ##### 4. Introdução ao desenvolvimento web com Node.js
-- [ ] Node.js: Runtime assíncrono
-- [ ] Node.js: API Rest com Express
-- [ ] Node.js: Testes de integração
-- [ ] Node.js: Express e Middlewares
-- [ ] Node.js: Express e MySQL
-- [ ] Projeto: Talker manager
+- [x] Node.js: Runtime assíncrono
+- [x] Node.js: API Rest com Express
+- [x] Node.js: Testes de integração
+- [x] Node.js: Express e Middlewares
+- [x] Node.js: Express e MySQL
+- [x] Projeto: Talker manager
+
+##### 5. Arquitetura de software: Model, Services e Controller
+- [x] Arquitetura de Software: Camada Model
+- [x] Arquitetura de Software: Camada Services
+- [x] Arquitetura de Software: Camada Controller
+- [x] Projeto: Store Manager
+
+##### 6. Node.js: Orm e autenticação
+- [x] Interface da aplicação com o banco de dados
+- [x] Associations 1:1 e n:n
+- [ ] Associations n:n e transactions
+- [ ] JWT - (Json Web Token)
+- [ ] Projeto: API de Blogs
+
+##### 7. Implantação de arquivos nas nuvem
+- [ ] Infraestrutura: Deploy com Railway
+
+##### 8. Introdução a TypeScript
+- [ ] Introdução a TypeScript
+- [ ] Tipagem Estática e Generics
+- [ ] Express com TypeScript
+- [ ] Projeto: Trybesmith
+
+##### 9. Programação Orientada a Objetos (POO) e SOLID
+- [ ] Introdução a Orientação a Objetos
+- [ ] Herança e Composição
+- [ ] Polimorfismo
+- [ ] SOLID - Introdução e Princípios S, O e D
+- [ ] SOLID - Princípios L e I
+- [ ] Projeto: Trybers and Dragons
+
+##### 10. TFC - Trybe Futebol Clube
+- [ ] Projeto - TFC - Trybe Futebol Clube
+
+##### 11. Introdução ao MongoDB
+- [ ] MongoDB - Introdução
+- [ ] Filters Operators
+- [ ] Operadores de consulta
+- [ ] Updates Simples
+- [ ] Updates Complexos - Arrays
+- [ ] Projeto: Commerce
+
+##### 12. APIs OO e NoSQL
+- [ ] APIs orientadas a objetos e NoSQL: POO e ODMs
+- [ ] APIs orientadas a objetos e NoSQL: Herança e Abstração
+- [ ] Projeto - Car Shop
+
+##### 13. App de Delivery
+- [ ] Projeto - App de Delivery
+
 </details>
 <details>
   <summary>Ciência da Computação :hourglass_flowing_sand: </summary>
