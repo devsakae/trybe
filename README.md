@@ -20,7 +20,7 @@
 ## Meu cronograma de estudos na Trybe
 
 <details>
-  <summary>Fundamentos do desenvolvimento web</summary>
+  <summary>Fundamentos do desenvolvimento web ✅</summary>
 
 ##### Bloco 1: Introdução - Unix & Shell</summary>
 - [x] 1-3: Fundamentos do Desenvolvimento Web
@@ -82,7 +82,7 @@
 </details>
 
 <details>
-  <summary>Desenvolvimento Front-end</summary>
+  <summary>Desenvolvimento Front-end ✅</summary>
 
 ##### Bloco 9: JavaScript e testes assíncronos
 - [X] 9-1: Introdução - Front-end
