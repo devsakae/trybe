@@ -15,6 +15,7 @@
 - [Faixas do Karatê](http://devsakae.me/trybe/extras/martialarts/index.html) - Criado em mai/2022 
 - [Quem paga o pato?](http://devsakae.me/pagando-o-pato) - Criado em jul/2022
 - [Matematikids](http://devsakae.me/matematikids) - Criado em jul/22
+- [Vai dar tempo](http://devsakae.me/vaidartempo) - Criado em out/22
 
 ## Meu cronograma de estudos na Trybe
 
