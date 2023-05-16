@@ -179,63 +179,55 @@
 ##### 6. Node.js: Orm e autenticação
 - [x] Interface da aplicação com o banco de dados
 - [x] Associations 1:1 e n:n
-- [ ] Associations n:n e transactions
-- [ ] JWT - (Json Web Token)
-- [ ] Projeto: API de Blogs
+- [x] Associations n:n e transactions
+- [x] JWT - (Json Web Token)
+- [x] Projeto: API de Blogs
 
 ##### 7. Implantação de arquivos nas nuvem
-- [ ] Infraestrutura: Deploy com Railway
+- [x] Infraestrutura: Deploy com Railway
 
 ##### 8. Introdução a TypeScript
-- [ ] Introdução a TypeScript
-- [ ] Tipagem Estática e Generics
-- [ ] Express com TypeScript
-- [ ] Projeto: Trybesmith
+- [x] Introdução a TypeScript
+- [x] Tipagem Estática e Generics
+- [x] Express com TypeScript
+- [x] Projeto: Trybesmith
 
 ##### 9. Programação Orientada a Objetos (POO) e SOLID
-- [ ] Introdução a Orientação a Objetos
-- [ ] Herança e Composição
-- [ ] Polimorfismo
-- [ ] SOLID - Introdução e Princípios S, O e D
-- [ ] SOLID - Princípios L e I
-- [ ] Projeto: Trybers and Dragons
+- [x] Introdução a Orientação a Objetos
+- [x] Herança e Composição
+- [x] Polimorfismo
+- [x] SOLID - Introdução e Princípios S, O e D
+- [x] SOLID - Princípios L e I
+- [x] Projeto: Trybers and Dragons
 
 ##### 10. TFC - Trybe Futebol Clube
-- [ ] Projeto - TFC - Trybe Futebol Clube
+- [x] Projeto - TFC - Trybe Futebol Clube
 
 ##### 11. Introdução ao MongoDB
-- [ ] MongoDB - Introdução
-- [ ] Filters Operators
-- [ ] Operadores de consulta
-- [ ] Updates Simples
-- [ ] Updates Complexos - Arrays
-- [ ] Projeto: Commerce
+- [x] MongoDB - Introdução
+- [x] Filters Operators
+- [x] Operadores de consulta
+- [x] Updates Simples
+- [x] Updates Complexos - Arrays
+- [x] Projeto: Commerce
 
 ##### 12. APIs OO e NoSQL
-- [ ] APIs orientadas a objetos e NoSQL: POO e ODMs
-- [ ] APIs orientadas a objetos e NoSQL: Herança e Abstração
-- [ ] Projeto - Car Shop
+- [x] APIs orientadas a objetos e NoSQL: POO e ODMs
+- [x] APIs orientadas a objetos e NoSQL: Herança e Abstração
+- [x] Projeto - Car Shop
 
 ##### 13. App de Delivery
-- [ ] Projeto - App de Delivery
+- [x] Projeto - App de Delivery
 
 </details>
 <details>
   <summary>Ciência da Computação :hourglass_flowing_sand: </summary>
 
-##### Bloco 35: Introdução - Ciência da Computação
-- [ ] 35-1: Arquitetura de Computadores
-- [ ] 35-2: Arquitetura de redes
-- [ ] 35-3: Redes de computadores, ferramentas e segurança
-- [ ] 35-4: [Projeto - Explorando os protocolos]
-
-##### Bloco 36: Python
-- [ ] 35-1: Aprendendo Python
-- [ ] 35-2: Testes e exceções
-- [ ] 35-3: Entrada e saída de dados
-- [ ] 36-4: Entrada e saída de dados
-- [ ] 35-5: [Projeto - Tech news]
-
-# [...]
+##### Seção CS 1: Python
+- [x] 1.1: Aprendendo Python
+- [x] 1.2: Testes e exceções
+- [x] 1.3: Entrada e saída de dados
+- [x] 1.4: Entrada e saída de dados
+- [x] 1.5: [Projeto - Job insights]
   
 </details>
